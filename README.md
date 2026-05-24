@@ -140,6 +140,13 @@ For testing purposes, the app is pre-populated with the following administrative
 - `utils/`: Helper classes for Audit Logging and Location services.
 - `ui/theme/`: Material 3 theme configurations.
 
+## 👥 Development Team
+
+- **Franz Geoff Rivera**
+- **Michael Ainjelo Maglaya**
+- **Luisito Angelo Ocray**
+- **Djanaisah Benito**
+
 ## 🤝 Contributing
 
 1. Fork the Project
@@ -151,3 +158,7 @@ For testing purposes, the app is pre-populated with the following administrative
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+**Built with ❤️ for disaster preparedness and community safety.**
