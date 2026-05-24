@@ -40,7 +40,7 @@ A comprehensive Android application built with Jetpack Compose designed for real
 
 <img width="398" height="875" alt="image" src="https://github.com/user-attachments/assets/ef0febe6-f9bd-4cd3-877a-811525b73139" />
 
-
+---
 
 
 ### 🏛️ For Barangay Officers
@@ -59,7 +59,7 @@ A comprehensive Android application built with Jetpack Compose designed for real
 <img width="400" height="877" alt="image" src="https://github.com/user-attachments/assets/42842c39-8328-4b99-912a-a84b9aba39f8" />
 
 
-
+---
 
 ### 🔐 For Administrators
 *Complete system control, user management, audit logs, and comprehensive analytics*
@@ -77,7 +77,7 @@ A comprehensive Android application built with Jetpack Compose designed for real
 <img width="400" height="881" alt="image" src="https://github.com/user-attachments/assets/ee516e42-95a5-48ac-9418-2ead9cf4115c" />
 
 
-
+---
 
 ### ✨ More Features
 *Community panel for Voting, Public Chat and Announcements and Account Settings*
