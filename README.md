@@ -1,4 +1,4 @@
-#  🚨 Barangay Disaster Monitoring System (BDMS)
+#  🚨 Barangay Disaster Monitoring System (BDMS) for Android
 
 A comprehensive Android application built with Jetpack Compose designed for real-time disaster reporting, tracking, and community coordination. The app leverages open-source mapping and local persistence to provide a reliable tool for emergency situations.
 
