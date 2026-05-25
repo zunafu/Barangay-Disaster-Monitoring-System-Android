@@ -1,6 +1,6 @@
 #  🚨 Disaster Monitoring & Response System
 
-A comprehensive Android application built with Jetpack Compose designed for real-time disaster reporting, tracking, and community coordination. The app leverages open-source mapping and local persistence to provide a reliable tool for emergency situations.
+A full-featured web-based disaster management platform built for real-time incident reporting, monitoring, and emergency response coordination. The system allows citizens to submit disaster reports, government agencies to respond efficiently, and administrators to manage and oversee operations seamlessly.
 
 ## 📱 Features
 
